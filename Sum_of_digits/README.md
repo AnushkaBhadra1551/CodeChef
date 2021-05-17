@@ -22,6 +22,7 @@ For each test case, calculate the sum of digits of N, and display it in a new li
 
 
 **Example**
+
 Input
 
 3 
