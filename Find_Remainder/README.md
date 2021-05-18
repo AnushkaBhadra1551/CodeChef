@@ -22,7 +22,7 @@ For each test case, find the remainder when A is divided by B, and display it in
 **Example**
 
 
-Input
+**Input**
 
 3 
 
@@ -32,7 +32,7 @@ Input
 
 40 15
 
-Output
+**Output**
 
 1
 
