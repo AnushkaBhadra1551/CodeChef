@@ -18,17 +18,26 @@ Output given numbers in non decreasing order.
 **Input:**
 
 5
+
 5
+
 3
+
 6
+
 7
+
 1
 
 
 **Output:**
 
 1
+
 3
+
 5
+
 6
+
 7
